@@ -36,7 +36,7 @@ Python packages:
 ### 1. Clone or download this repo
 
 ```bash
-git clone https://github.com/yourusername/tech-detect-tool.git
+git clone https://github.com/SyedGhufranRaza/Reconnaissance-Tool
 cd Tech_detect
 
 2. Install dependencies
